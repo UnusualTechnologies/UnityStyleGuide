@@ -347,7 +347,7 @@ _Dynamic
 
 ## 3. Scripts
 
-This section will focus on C# classes and their internals. When possible, style rules conform to Microsoft's C# standard.
+This section will focus on C# classes and their internals. When possible, style rules conform to [Microsoft's C# standard](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 
 ### Sections
 > 3.1 [Class Organization](#classorganization)
